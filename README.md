@@ -28,53 +28,52 @@ Microsoft is venturing into movie production and seeks insights into successful 
 
 We leverage the power of Python's pandas library for data manipulation and cleaning, and matplotlib for creating informative visualizations. Our analysis delves into several key areas to provide insights for strategic movie studio decision-making:
 
-1. Year-wise Performance:
+### 1. Year-wise Performance:
 
 #### Visualization:  
 
 Line plot
-Insights:
+##### Insights:
 
 * This visualization helps us understand trends in total box office performance (domestic and foreign) over time.
 * We can identify years with particularly strong or weak overall performance, potentially revealing seasonal patterns or external factors influencing movie success.  
 
 
 
+### 2. Budget vs. Box Office Performance:
 
-2. . Budget vs. Box Office Performance:
-
-Visualization:  
+#### Visualization:  
 
 Scatter Plot
-Insights:
+##### Insights:
 
 This scatter plot allows us to explore the relationship between a movie's production budget and its domestic box office gross.
 While a strong correlation might not always exist, we can identify potential trends to inform budget allocation strategies for different movie types. It's important to consider outliers and use statistical tests for a more robust understanding.  
 
 
-3.Profitability Analysis by Genre and Budget:
+### 3.Profitability Analysis by Genre and Budget:
 
 While the provided code uses a pivot table for visualization, here's an alternative approach using a violin plot:
 
 
 
-4. Top Movies by Worldwide Gross:
+### 4. Top Movies by Worldwide Gross:
 
-Visualization:
+#### Visualization:
 Bar plot 
 
-Insights:
+##### Insights:
 
 This visualization helps identify the top 10 movies based on their combined domestic and foreign box office gross (worldwide gross).
 By comparing this list with the top 10 domestic gross earners, we can see if there's overlap or if different movies perform better in international markets.  
 
 
-5. Distribution of Release Years:
+### 5. Distribution of Release Years:
 
-Visualization:  
+#### Visualization:  
 Hist plot
 
-Insights:
+##### Insights:
 
 This histogram reveals trends in movie production volume over time.  
 We can identify periods with higher or lower movie release activity, which might be relevant for scheduling release dates and marketing efforts.  

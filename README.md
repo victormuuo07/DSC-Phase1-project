@@ -95,7 +95,7 @@ in terms of production budget and domestic gross (e.g., movies with budgets betw
 ##### Risk Tolerance: 
 I recommend exploring genres with higher budgets and potentially higher returns (though also higher risk).
 
-#### Conclusion
+### Conclusion
 In this exploratory data analysis project, we investigated the landscape of movie production budgets and domestic gross to inform the strategic direction of Microsoft's new movie studio. By analyzing data from various sources, we aimed to identify trends and relationships that could provide actionable insights.
 
 Our key findings, visualized through various charts and graphs, revealed several potential avenues for Microsoft's movie studio to consider. These findings suggest that Microsoft could prioritize specific genres, target certain budget ranges, and potentially optimize release strategies to maximize their chances of box office success.
